@@ -1,0 +1,3 @@
+# Optional interactive notebook interface. The analysis script does not need it.
+-r requirements.txt
+notebook>=7,<8

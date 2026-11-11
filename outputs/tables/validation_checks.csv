@@ -1,0 +1,11 @@
+check,passed
+one_order_row_per_source_order,True
+item_row_count_preserved,True
+delivered_sales_match_raw_items,True
+delivered_payments_match_raw_payments,True
+category_sales_reconcile,True
+month_sales_reconcile,True
+state_sales_reconcile,True
+all_delivered_orders_have_items,True
+review_groups_match_eligible_reviewed_orders,True
+unknown_deliveries_not_classified_on_time,True

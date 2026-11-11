@@ -1,0 +1,3 @@
+delivery_group,reviewed_orders,average_score,low_score_orders,low_score_rate_pct,ci_low_pct,ci_high_pct
+On time,89443,4.290386,8289,9.267355,9.079065,9.459143
+Late,6381,2.270491,3983,62.419683,61.224194,63.600228

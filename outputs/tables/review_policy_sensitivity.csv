@@ -1,0 +1,5 @@
+review_policy,delivery_group,reviewed_orders,average_score,low_score_orders,low_score_rate_pct,ci_low_pct,ci_high_pct
+latest_response,On time,89443,4.290386,8289,9.267355,9.079065,9.459143
+latest_response,Late,6381,2.270491,3983,62.419683,61.224194,63.600228
+earliest_response,On time,89443,4.290811,8283,9.260646,9.072418,9.452374
+earliest_response,Late,6381,2.273155,3979,62.356997,61.161153,63.537973
